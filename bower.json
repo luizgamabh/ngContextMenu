@@ -1,0 +1,24 @@
+{
+  "name": "ngContextMenu",
+  "main": [
+    "ngContextMenu.js",
+    "ngContextMenu.css"
+  ],
+  "homepage": "https://github.com/luizgamabh/ngContextMenu",
+  "authors": [
+    "Luiz Gustavo Freire Gama <luizgama@onrails.com.br>"
+  ],
+  "description": "Directive to create context menu",
+  "keywords": [
+    "context",
+    "menu"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
